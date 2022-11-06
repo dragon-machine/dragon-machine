@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dragon-machine
 - 👀 I’m interested in Python, Rust and Linux
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on https://github.com/lapce/lapce
 - 📫 How to reach me ... https://t.me/dragonmachine
 
 <!---
